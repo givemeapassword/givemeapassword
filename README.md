@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+<h1 align="center"> Hello, Chumba! I'm Slavik
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer science student</h3>
+_________________________________________________________
+
+
+I'm a student of SfedU in the direction of applied computer science.
+- 🌱 I’m currently learning Python, C++, algorithms, 
+- 📫 How to reach me:  **[Telegram](https://t.me/Black_Homethat), [VK](https://vk.com/tihonov2003)**
+
 <!--
 **givemeapassword/givemeapassword** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
