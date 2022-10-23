@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hello, ! I'm Slavik</h1>
 <div id="header" align="center">
-  <img src="https://i1.sndcdn.com/avatars-000296993373-0b0emw-t500x500.jpg" width="500"/>
+  <img src="https://media.tenor.com/X4i9UfhS69QAAAAC/ed-cowboy.gif" width="500"/>
 </div>
 <h3 align="center">Computer science student</h3>
 _________________________________________________________
