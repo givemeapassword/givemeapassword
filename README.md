@@ -7,7 +7,7 @@ _________________________________________________________
 
 
 I'm a student of SfedU in the direction of Mathematical support and administration of information systems.
-- 🌱 I’m currently learning Python, C++, algorithms, 
+- 🌱 I’m currently learning Python, C++, algorithms, OOP, network
 - 📫 How to reach me:  **[Telegram](https://t.me/Black_Homethat), [VK](https://vk.com/tihonov2003)**
 
 <!--
