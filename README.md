@@ -1,6 +1,5 @@
-### Hi there 👋
 
-<h1 align="center"> Hello, ! I'm Slavik</h1>
+<h1 align="center"> Hello!</h1>
 <div align="center">
   <img src="https://media.tenor.com/X4i9UfhS69QAAAAC/ed-cowboy.gif" width="500"/>
 </div>
