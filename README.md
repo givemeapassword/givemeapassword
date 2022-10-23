@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<h1 align="center"> Hello, Chumba! I'm Slavik
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center"> Hello, ! I'm Slavik
+<img src="https://i.gifer.com/371U.gif" height="32"/></h1>
 <h3 align="center">Computer science student</h3>
 _________________________________________________________
 
