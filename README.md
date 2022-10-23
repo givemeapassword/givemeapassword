@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-<h1 align="center"> Hello, ! I'm Slavik
-<img src="https://i.gifer.com/371U.gif" height="32"/></h1>
+<h1 align="center"> Hello, ! I'm Slavik</h1>
+<div id="header" align="center">
+  <img src="https://i.gifer.com/371U.gif" width="100"/>
+</div>
 <h3 align="center">Computer science student</h3>
 _________________________________________________________
 
