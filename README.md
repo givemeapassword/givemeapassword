@@ -4,6 +4,7 @@
 <div id="header" align="center">
   <img src="https://media.tenor.com/X4i9UfhS69QAAAAC/ed-cowboy.gif" width="500"/>
 </div>
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 <h3 align="center">Computer science student</h3>
 _________________________________________________________
 
