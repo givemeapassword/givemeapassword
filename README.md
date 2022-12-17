@@ -3,7 +3,7 @@
 
 <div align="center">
   
-  <img src="https://pin.it/5I9oZXX" width="500"/>
+  <img src="https://i.pinimg.com/originals/01/80/4a/01804a6c7f81e38f90d793089a4e989a.gif" width="500"/>
 </div>
 
 <h3 align="center">Computer science student</h3>
