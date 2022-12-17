@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hello!</h1>
+<h1 align="center"> Hello! Stranger, whoever you are...</h1>
 
 <div align="center">
   
@@ -11,9 +11,10 @@ _________________________________________________________
 
 
 I'm a student of SfedU in the direction of Mathematical support and administration of information systems.
-- 🌱 I’m currently learning Python, C++, algorithms, OOP, networking, git
+- 🌱 I’m currently learning Python, C++, algorithms, OOP, networking, git, AI
 - 📫 How to reach me:  **[Telegram](https://t.me/Black_Homethat), [VK](https://vk.com/tihonov2003)**
-
+- 😄 Pronouns: Wanderer
+- ⚡ Fun fact: I'm a hobbit
 <!--
 https://media.tenor.com/X4i9UfhS69QAAAAC/ed-cowboy.gif
 **givemeapassword/givemeapassword** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,6 +27,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
