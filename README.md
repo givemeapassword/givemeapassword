@@ -17,11 +17,6 @@ I'm a student of SfedU in the direction of Mathematical support and administrati
 - ⚡ Fun fact: I'm a hobbit
 
 ![Codewars](https://github.r2v.ch/codewars?user=prosto_gus&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=givemeapassword&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=givemeapassword&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=givemeapassword&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=givemeapassword&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=givemeapassword&theme=solarized_dark)
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 <!--
 https://media.tenor.com/X4i9UfhS69QAAAAC/ed-cowboy.gif
