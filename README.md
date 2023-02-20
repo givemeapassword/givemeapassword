@@ -17,14 +17,12 @@ I'm a student of SfedU in the direction of Mathematical support and administrati
 - ⚡ Fun fact: I'm a hobbit
 
 ![Codewars](https://github.r2v.ch/codewars?user=prosto_gus&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=givemeapassword&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=givemeapassword&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=givemeapassword&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=givemeapassword&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=givemeapassword&theme=solarized_dark)
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daniilshat&theme=solarized_dark)
 <!--
 https://media.tenor.com/X4i9UfhS69QAAAAC/ed-cowboy.gif
 **givemeapassword/givemeapassword** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
