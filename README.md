@@ -16,7 +16,7 @@ I'm a student of SfedU in the direction of Mathematical support and administrati
 - 😄 Pronouns: Wanderer
 - ⚡ Fun fact: I'm a hobbit
 
-![Codewars](https://github.r2v.ch/codewars?user=prosto_gus&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
+<h3 align="center">![Codewars](https://github.r2v.ch/codewars?user=prosto_gus&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)</h3>
 <!--
 https://media.tenor.com/X4i9UfhS69QAAAAC/ed-cowboy.gif
 **givemeapassword/givemeapassword** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
