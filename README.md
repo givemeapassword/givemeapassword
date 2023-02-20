@@ -15,6 +15,8 @@ I'm a student of SfedU in the direction of Mathematical support and administrati
 - 📫 How to reach me:  **[Telegram](https://t.me/Black_Homethat), [VK](https://vk.com/tihonov2003)**
 - 😄 Pronouns: Wanderer
 - ⚡ Fun fact: I'm a hobbit
+
+![Codewars](https://github.r2v.ch/codewars?user=prosto_gus&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
 <!--
 https://media.tenor.com/X4i9UfhS69QAAAAC/ed-cowboy.gif
 **givemeapassword/givemeapassword** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
