@@ -11,7 +11,7 @@ _________________________________________________________
 
 
 I'm a student of SfedU in the direction of Mathematical support and administration of information systems.
-- 🌱 I’m currently learning Python, C++, algorithms, OOP, networking, git, AI
+- 🌱 I’m currently learning Python, C++, algorithms, OOP, networking, git, mobile development
 - 📫 How to reach me:  **[Telegram](https://t.me/Black_Homethat), [VK](https://vk.com/tihonov2003)**
 - 😄 Pronouns: Wanderer
 - ⚡ Fun fact: I'm a hobbit
