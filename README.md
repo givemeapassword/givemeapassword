@@ -37,6 +37,6 @@ Favorite activities after college: learning bards in the form of musical instrum
    <img src="https://i.pinimg.com/originals/01/80/4a/01804a6c7f81e38f90d793089a4e989a.gif" width="500"/>
 </div>
 
+   [![codewars](https://www.codewars.com/users/prosto_gus/badges/large)](https://www.codewars.com/users/prosto_gus) 
 
-##
 
